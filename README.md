@@ -9,11 +9,8 @@ This is the hub for my portfolio / projects I am making
  - [Deployed Site](#deployed-site)
  - [Installation](#installation)
  - [Usage](#usage)
- - [Developers](#developers)
- - [How to Contribute](#how-to-contribute)
  - [Technologies](#technologies)
  - [License](#license)
- - [Acknowledgements](#acknowledgements)
 
 
 # Deployed Site 🌎
