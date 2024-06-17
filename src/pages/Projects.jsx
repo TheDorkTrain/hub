@@ -11,7 +11,7 @@ const Projects = () => {
     <><div style={{display: "flex", justifyContent: 'center'}}>
       <div className="box">
         <div >
-          <h4 > Projects Me</h4>
+          <h4 > Projects</h4>
           <div >
            
           </div>

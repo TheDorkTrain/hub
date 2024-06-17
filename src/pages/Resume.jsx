@@ -11,7 +11,7 @@ const Resume = () => {
     <><div style={{display: "flex", justifyContent: 'center'}}>
       <div className="box">
         <div >
-          <h4 > Resume Me</h4>
+          <h4 > Resume</h4>
           <div >
            
           </div>
