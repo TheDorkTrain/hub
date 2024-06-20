@@ -33,6 +33,9 @@ This is the hub for my portfolio / projects I am making
 - React
 - Node
 
+# Acknowledgements
+Train Image by brgfxon Freepik
+
 # License ©
 
 Licensed under the MIT license. Copyright @ MIT. All rights reserved.

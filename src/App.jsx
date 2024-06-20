@@ -9,6 +9,8 @@ import {
 
 import { setContext } from '@apollo/client/link/context';
 import Header from './components/Header';
+import Footer from './components/Footer';
+
 import './App.css';
 
 
@@ -41,6 +43,7 @@ const App = () => {
       <div>
         <Outlet />
       </div>
+      <Footer/>
     </ApolloProvider>
     </>
   );
